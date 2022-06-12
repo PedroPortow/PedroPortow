@@ -4,7 +4,7 @@
 🔭 Front-end developer <br>
 🌱 Studying React/NextJS <br>
 📫 Email: pedrolportow@gmail.com <br>
-📚  2º Semestre - Ciência da Computação na Universidade Federal de Pelotas (UFPEL)
+📚 Ciência da Computação - Universidade Federal de Pelotas (UFPEL)
 <br>
 <br>
 
