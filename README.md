@@ -1,8 +1,7 @@
 ## Hi there! 😊
 
 
-🔭 Front-end developer <br>
-🌱 Studying React/NextJS <br>
+🔭 Web Developer <br>
 📫 Email: pedrolportow@gmail.com <br>
 📚 Ciência da Computação - Universidade Federal de Pelotas (UFPEL)
 <br>
