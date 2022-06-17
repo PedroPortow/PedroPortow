@@ -25,7 +25,7 @@
   ##
   
   <div> 
-      <a href="https://pedroportow.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-thebadge&logo=About.me&logoColor=white" target="_blank"></a> 
+      <a href="https://pedroportow.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-thebadge&logo=About.me&logoColor=white" target="_blank"></a> 
    <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.instagram.com/pedro.portow/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://twitter.com/pedroportow" target="_blank"><img src="https://img.shields.io/badge/-twitter-%230077B5?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
