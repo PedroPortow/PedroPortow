@@ -17,7 +17,7 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rails" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" />
+  <img align="center" alt="Rails" height="30" width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original.svg" />
   
   <img align="right" alt="Clancy-Gif" height="150" style="border-radius:50px;" src="https://i.pinimg.com/originals/6f/61/30/6f61303117eb9da74e554f75ddf913d3.gif">
 </div>
