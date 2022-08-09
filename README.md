@@ -1,7 +1,7 @@
-## Hi there! 😊
+## Welcome! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
 
-🔭 Web Developer <br>
+👨‍💻 Web Developer <br>
 📫 Email: pedrolportow@gmail.com <br>
 📚 Ciência da Computação - Universidade Federal de Pelotas (UFPEL)
 <br>
