@@ -10,7 +10,7 @@
 <div align="center">
   <a href="https://github.com/PedroPortow">
   <img height="160em"  src="https://github-readme-stats.vercel.app/api?username=PedroPortow&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img height="160em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroPortow&layout=compact&langs_count=7&theme=gotham"/>
+  <img height="160em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroPortow&layout=compact&langs_count=7&hide=HTML,CSS,SCSS,SASS&theme=gotham"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
