@@ -1,18 +1,9 @@
 ## Welcome! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="30">
 
-👨‍💻 Web Developer <br>
 📫 Email: pedrolportow@gmail.com <br>
 📚 Ciência da Computação - Universidade Federal de Pelotas (UFPEL)
 
-<br>
-<br>
 
-<div align="center">
-  <a href="https://github.com/PedroPortow">
-  <img height="160em"  src="https://github-readme-stats.vercel.app/api?username=PedroPortow&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img height="160em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroPortow&layout=compact&langs_count=7&hide=HTML,CSS,SCSS,SASS&theme=gotham"/>
-</div>
-  
 ##
   
   <div> 
